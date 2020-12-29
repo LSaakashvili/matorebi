@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4cde7998.chunk.css",
+    "main.js": "/static/js/main.a51a7a95.chunk.js",
+    "main.js.map": "/static/js/main.a51a7a95.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b742c559.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b742c559.js.map",
+    "static/css/2.4b9aeb59.chunk.css": "/static/css/2.4b9aeb59.chunk.css",
+    "static/js/2.01d1c744.chunk.js": "/static/js/2.01d1c744.chunk.js",
+    "static/js/2.01d1c744.chunk.js.map": "/static/js/2.01d1c744.chunk.js.map",
+    "static/js/3.6d7bdfb1.chunk.js": "/static/js/3.6d7bdfb1.chunk.js",
+    "static/js/3.6d7bdfb1.chunk.js.map": "/static/js/3.6d7bdfb1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4b9aeb59.chunk.css.map": "/static/css/2.4b9aeb59.chunk.css.map",
+    "static/css/main.4cde7998.chunk.css.map": "/static/css/main.4cde7998.chunk.css.map",
+    "static/js/2.01d1c744.chunk.js.LICENSE.txt": "/static/js/2.01d1c744.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/გარაჟი2.043b1a5d.jpg",
+    "static/media/portfolio1.a1e6fb45.jpg": "/static/media/portfolio1.a1e6fb45.jpg",
+    "static/media/portfolio2.b36635dd.jpg": "/static/media/portfolio2.b36635dd.jpg",
+    "static/media/portfolio3.a14a81a4.jpg": "/static/media/portfolio3.a14a81a4.jpg",
+    "static/media/portfolio4.79cd9640.jpeg": "/static/media/portfolio4.79cd9640.jpeg",
+    "static/media/portfolio5.6d0d6237.jpg": "/static/media/portfolio5.6d0d6237.jpg",
+    "static/media/scroll.6189af14.png": "/static/media/scroll.6189af14.png",
+    "static/media/მატორი.f4d1ab0c.png": "/static/media/მატორი.f4d1ab0c.png",
+    "static/media/ხიდი.0a4d8575.png": "/static/media/ხიდი.0a4d8575.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b742c559.js",
+    "static/css/2.4b9aeb59.chunk.css",
+    "static/js/2.01d1c744.chunk.js",
+    "static/css/main.4cde7998.chunk.css",
+    "static/js/main.a51a7a95.chunk.js"
+  ]
+}
